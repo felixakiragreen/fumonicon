@@ -1,25 +1,54 @@
 {
-  "name": "fumonicon",
-  "author": "Felix Green",
+  "name": "@f*g/fumonicon",
   "version": "0.1.0",
+  "description": "hexagonal vectors. portmanteau of futuristic, mon 🇯🇵, & icon.",
+  "keywords": [
+    "hexagon",
+    "vector",
+    "icons"
+  ],
+  "homepage": "https://github.com/felixakiragreen/fumonicon#readme",
+  "bugs": {
+    "url": "https://github.com/felixakiragreen/fumonicon/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixakiragreen/fumonicon.git"
+  },
   "license": "Unlicense",
+  "author": "Felix Green",
   "main": "dist/index.js",
+  "module": "dist/fumonicon.esm.js",
   "typings": "dist/index.d.ts",
+  "directories": {
+    "test": "test"
+  },
   "files": [
     "dist"
   ],
-  "module": "dist/fumonicon.esm.js",
   "scripts": {
-    "clean": "rm ./src/icons/*.js ./src/index.js",
-    "start": "tsdx watch",
     "build": "tsdx build",
-    "build:icon": "node scripts/build-package.js",
     "build:all": "yarn build:icon && yarn build",
-    "test": "tsdx test",
+    "build:icon": "node scripts/build-package.js",
+    "clean": "rm ./src/icons/*.js ./src/index.js",
     "lint": "tsdx lint",
     "lint:svg": "svglint icons/* --ci",
-    "prepare": "tsdx build"
+    "prepare": "tsdx build",
+    "start": "tsdx watch",
+    "test": "tsdx test"
   },
+  "husky": {
+    "hooks": {
+      "pre-commit": "tsdx lint"
+    }
+  },
+  "prettier": {
+    "printWidth": 80,
+    "semi": false,
+    "singleQuote": true,
+    "trailingComma": "es5"
+  },
+  "dependencies": {},
   "devDependencies": {
     "@types/jest": "^25.1.3",
     "husky": "^4.2.3",
@@ -29,16 +58,5 @@
     "tslib": "^1.11.0",
     "typescript": "^3.7.5",
     "uglify-js": "^3.8.0"
-  },
-  "prettier": {
-    "printWidth": 80,
-    "semi": false,
-    "singleQuote": true,
-    "trailingComma": "es5"
-  },
-  "husky": {
-    "hooks": {
-      "pre-commit": "tsdx lint"
-    }
   }
 }
