@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg
+  width="100%"
+  height="100%"
+  viewBox="0 0 240 240"
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xml:space="preserve"
+  xmlns:serif="http://www.serif.com/"
+  style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;"
+>
+  <rect
+    id="selfportrait"
+    x="0"
+    y="0"
+    width="240"
+    height="240"
+    style="fill:none;"
+  />
+  <clipPath id="_clip1">
+    <rect x="0" y="0" width="240" height="240" />
+  </clipPath>
+  <g clip-path="url(#_clip1)">
+    <path
+      d="M120,0l103.923,60l0,120l-103.923,60l-103.923,-60l0,-120l103.923,-60Z"
+      style="fill:#808080;"
+    />
+    <g id="body">
+      <path
+        d="M42.058,195l51.961,-30l51.962,0l51.961,30l-77.942,45l-77.942,-45Z"
+      />
+      <path
+        d="M76.699,175l43.301,25l43.301,-25l-17.32,-10l-51.962,0l-17.32,10Z"
+        style="fill:#e6e6e6;"
+      />
+    </g>
+    <path
+      id="head"
+      d="M120,60l51.962,30l0,60l-51.962,30l-51.962,-30l0,-60l51.962,-30Z"
+      style="fill:#fff;"
+    />
+    <g id="hair">
+      <path
+        d="M120,32l17.321,10l0,20l-17.321,10l-17.321,-10l0,-20l17.321,-10Z"
+        style="fill:#553e23;"
+      />
+      <path
+        d="M94.019,75l25.981,-15l25.981,15l-25.981,15l-25.981,-15Z"
+        style="fill:#73542f;"
+      />
+    </g>
+    <g id="darken">
+      <path
+        d="M120,32l17.321,10l0,20l-6.929,4l-10.392,-6l0,-28Z"
+        style="fill-opacity:0.12;"
+      />
+      <path
+        d="M120,90l25.981,-15l-25.981,-15l0,30Z"
+        style="fill-opacity:0.12;"
+      />
+      <path
+        d="M120,180l51.962,-30l0,-60l-25.981,-15l-25.981,15l0,90Z"
+        style="fill-opacity:0.12;"
+      />
+      <path
+        d="M120,200l43.301,-25l-17.32,-10l-25.981,15l0,20Z"
+        style="fill-opacity:0.12;"
+      />
+      <path
+        d="M120,240l-77.942,-45l34.641,-20l43.301,25l0,40Z"
+        style="fill:#fff;fill-opacity:0.12;"
+      />
+    </g>
+  </g>
+</svg>

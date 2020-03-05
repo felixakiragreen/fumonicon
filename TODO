@@ -1,0 +1,17 @@
+Icons to add:
+  + FAG
+  - Portrait
+
+Inspired by:
+  https://simpleicons.org/
+
+FUTURE:
+  - Rewrite JavaScript to be TypeScript ?
+
+  Ideas:
+    - Mono, single color, full color? versioning?
+    - Sizes? Paths? Avg?
+    - Outline version? Filled version?
+    - Should have a website?
+    - fill-rule="evenodd" can go on paths, doesn't need to go on SVG tag
+    - fill="currentColor"

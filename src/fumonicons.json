@@ -1,0 +1,39 @@
+{
+  "fumonicons": [
+    {
+      "title": "fag",
+      "description": "the first fumonicon; initials for Felix Akira Green",
+      "colors": ["grey-700", "felix"]
+    },
+    {
+      "title": "portrait_fag",
+      "description": "a hexagonal self-portrait of Felix Akira Green",
+      "colors": []
+    },
+    {
+      "title": "dof",
+      "description": "Designing Our Future",
+      "colors": []
+    },
+    {
+      "title": "solarpunk",
+      "description": "a rising hexagon",
+      "colors": ["black", "felix"]
+    },
+    {
+      "title": "projects",
+      "description": "a hexagonal city plan",
+      "colors": []
+    },
+    {
+      "title": "time",
+      "description": "the arrows of time",
+      "colors": []
+    },
+    {
+      "title": "golden_circle",
+      "description": "1. why , 2. how , 3. what",
+      "colors": []
+    }
+  ]
+}

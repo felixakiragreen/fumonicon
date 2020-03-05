@@ -1,0 +1,188 @@
+<svg
+  role="img"
+  width="100%"
+  height="100%"
+  viewBox="0 0 240 240"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <title>
+    projects fuminicon
+  </title>
+
+  <symbol id="symbol-projects-block">
+    <g>
+      <path
+        d="M113.072,112l-91.799,-53l95.263,-55l0,106l-3.464,2Z"
+        fill="var(--fumonicon-projects-bg, var(--yellow-200, #fbedb8))"
+      />
+      <g id="projects-blocks">
+        <g>
+          <g>
+            <path
+              d="M107.876,107l-32.909,-19l18.186,-10.5l16.455,28.5l-1.732,1Z"
+              fill="var(--fumonicon-projects-building, var(--orange-200, #ccc095))"
+            />
+            <path
+              d="M97.483,95l-10.392,-6l5.196,-3l5.196,9Z"
+              fill="var(--fumonicon-projects-park, var(--green-500, #7bb756))"
+            />
+          </g>
+          <g>
+            <path
+              d="M113.072,104l-16.455,-28.5l18.187,-10.5l0,38l-1.732,1Z"
+              fill="var(--fumonicon-projects-building, var(--orange-200, #ccc095))"
+            />
+            <path
+              d="M104.412,79l5.196,-3l0,12l-5.196,-9Z"
+              fill="var(--fumonicon-projects-park, var(--green-500, #7bb756))"
+            />
+          </g>
+        </g>
+        <g>
+          <g>
+            <path
+              d="M85.359,42l27.713,16l0,4l-18.187,10.5l-15.588,-27l6.062,-3.5Z"
+              fill="var(--fumonicon-projects-building, var(--orange-200, #ccc095))"
+            />
+            <path
+              d="M87.091,49l17.321,10l-8.661,5l-8.66,-15Z"
+              fill="var(--fumonicon-projects-park, var(--green-500, #7bb756))"
+            />
+          </g>
+          <g>
+            <path
+              d="M69.771,51l6.062,-3.5l15.588,27l-18.186,10.5l-3.464,-2l0,-32Z"
+              fill="var(--fumonicon-projects-building, var(--orange-200, #ccc095))"
+            />
+            <path
+              d="M83.627,71l-8.66,5l0,-20l8.66,15Z"
+              fill="var(--fumonicon-projects-park, var(--green-500, #7bb756))"
+            />
+          </g>
+        </g>
+        <g>
+          <g>
+            <path
+              d="M66.306,51l0,32l-19.918,-11.5l13.856,-24l6.062,3.5Z"
+              fill="var(--fumonicon-projects-building, var(--orange-200, #ccc095))"
+            />
+            <path
+              d="M61.11,56l0,18l-7.794,-4.5l7.794,-13.5Z"
+              fill="var(--fumonicon-projects-park, var(--green-500, #7bb756))"
+            />
+          </g>
+          <g>
+            <path
+              d="M50.718,42l6.062,3.5l-13.856,24l-19.919,-11.5l27.713,-16Z"
+              fill="var(--fumonicon-projects-building, var(--orange-200, #ccc095))"
+            />
+            <path
+              d="M41.192,62.5l-7.795,-4.5l15.589,-9l-7.794,13.5Z"
+              fill="var(--fumonicon-projects-park, var(--green-500, #7bb756))"
+            />
+          </g>
+        </g>
+        <g>
+          <g>
+            <path
+              d="M87.091,21l27.713,-16l0,23l-27.713,0l0,-7Z"
+              fill="var(--fumonicon-projects-building, var(--orange-200, #ccc095))"
+            />
+            <path
+              d="M94.019,23l15.589,-9l0,9l-15.589,0Z"
+              fill="var(--fumonicon-projects-park, var(--green-500, #7bb756))"
+            />
+          </g>
+          <g>
+            <path
+              d="M87.091,39l0,-7l27.713,0l0,23l-27.713,-16Z"
+              fill="var(--fumonicon-projects-building, var(--orange-200, #ccc095))"
+            />
+            <path
+              d="M109.608,37l0,9l-15.589,-9l15.589,0Z"
+              fill="var(--fumonicon-projects-park, var(--green-500, #7bb756))"
+            />
+          </g>
+        </g>
+      </g>
+      <path
+        id="projects-park"
+        d="M68.038,48l15.589,-9l0,-18l-31.177,18l15.588,9Z"
+        fill="var(--fumonicon-projects-park, var(--green-500, #7bb756))"
+      />
+      <g id="projects-roads">
+        <path
+          d="M109.608,114l10.392,-6l0,-8l-1.732,-1l0,2l-13.856,8l-1.733,-1l0,2l6.929,4Z"
+          fill="var(--fumonicon-projects-road, var(--yellow-500, #efcd44))"
+        />
+        <path
+          d="M114.804,103l0,-100l3.464,-2l0,100l-3.464,2Z"
+          fill="var(--fumonicon-projects-road, var(--yellow-500, #efcd44))"
+        />
+        <path
+          d="M120,100l0,-98l-1.732,1l0,96l1.732,1Z"
+          fill="var(--fumonicon-projects-park, var(--green-500, #7bb756))"
+        />
+        <path
+          d="M104.412,109l-86.603,-50l3.464,-2l86.603,50l-3.464,2Z"
+          fill="var(--fumonicon-projects-road, var(--yellow-500, #efcd44))"
+        />
+        <path
+          d="M16.077,60l86.602,50l0,-2l-84.87,-49l-1.732,1Z"
+          fill="var(--fumonicon-projects-park, var(--green-500, #7bb756))"
+        />
+      </g>
+      <g
+        id="projects-mass-transit"
+        fill="var(--fumonicon-projects-mass-transit, var(--blue-500, #58a4d7))"
+      >
+        <path d="M66.306,31l0,54l1.732,-1l1.733,1l0,-54l-1.733,-1l-1.732,1Z" />
+        <path d="M68.038,32l50.23,29l1.732,-3l-50.229,-29l-1.733,1l0,2Z" />
+        <path d="M118.268,59l-46.765,27l1.732,1l0,2l46.765,-27l-1.732,-3Z" />
+        <path d="M120,68l-6.928,-4l0,-8l6.928,-4l0,16Z" />
+        <path d="M16.077,60l51.961,-30l0,2l-50.229,29l-1.732,-1Z" />
+        <path d="M69.771,31l-1.733,-1l51.962,-30l0,2l-50.229,29Z" />
+        <path d="M68.038,82l6.929,4l0,8l-13.857,-8l6.928,-4Z" />
+      </g>
+    </g>
+  </symbol>
+  <style>
+    .origin-center {
+      transform-origin: 120px 120px;
+    }
+  </style>
+  <g class="color" style="fill-rule:evenodd">
+    <use xlink:href="#symbol-projects-block" />
+    <use
+      xlink:href="#symbol-projects-block"
+      class="origin-center"
+      transform="rotate(60)"
+    />
+    <use
+      xlink:href="#symbol-projects-block"
+      class="origin-center"
+      transform="rotate(120)"
+    />
+    <use
+      xlink:href="#symbol-projects-block"
+      class="origin-center"
+      transform="rotate(180)"
+    />
+    <use
+      xlink:href="#symbol-projects-block"
+      class="origin-center"
+      transform="rotate(240)"
+    />
+    <use
+      xlink:href="#symbol-projects-block"
+      class="origin-center"
+      transform="rotate(300)"
+    />
+    <path
+      id="projects-park"
+      d="M109.608,114l10.392,-6l10.392,6l0,12l-10.392,6l-10.392,-6l0,-12Z"
+      fill="var(--fumonicon-projects-park, var(--green-500, #7bb756))"
+    />
+  </g>
+</svg>

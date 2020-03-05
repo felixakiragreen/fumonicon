@@ -1,0 +1,28 @@
+<svg
+  role="img"
+  width="100%"
+  height="100%"
+  viewBox="0 0 240 240"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>
+    golden_circle fuminicon
+  </title>
+  <g id="color" style="fill-rule:evenodd">
+    <path
+      id="golden_circle-what"
+      d="M60,16.077l120,0l60,103.923l-60,103.923l-120,0l-60,-103.923l60,-103.923Z"
+      fill="var(--fumonicon-golden-circle-what, var(--purple-300, #8a718e))"
+    />
+    <path
+      id="golden_circle-how"
+      d="M60,16.077l60,34.641l60,-34.641l0,69.282l60,34.641l-60,34.641l0,69.282l-60,-34.641l-60,34.641l0,-69.282l-60,-34.641l60,-34.641l0,-69.282Z"
+      fill="var(--fumonicon-golden-circle-how, var(--blue-300, #58a4d7))"
+    />
+    <path
+      id="golden_circle-why"
+      d="M60,85.359l60,-34.641l60,34.641l0,69.282l-60,34.641l-60,-34.641l0,-69.282Z"
+      fill="var(--fumonicon-golden-circle-why, var(--green-300, #adff2f))"
+    />
+  </g>
+</svg>

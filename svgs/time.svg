@@ -1,0 +1,33 @@
+<svg
+  role="img"
+  width="100%"
+  height="100%"
+  viewBox="0 0 240 240"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>
+    time fuminicon
+  </title>
+  <g id="color" style="fill-rule:evenodd">
+    <path
+      id="time-bg"
+      d="M240,120l-60,103.923l-120,0l-60,-103.923l60,-103.923l120,0l60,103.923Z"
+      fill="var(--fumonicon-time-bg, var(--grey-300, #808080))"
+    />
+    <path
+      id="time-past"
+      d="M60,16.077l-60,103.923l60,103.923l20,-34.641l-30,-51.961l60,0l10,-17.321l-10,-17.321l-60,0l30,-51.961l-20,-34.641Z"
+      fill="var(--fumonicon-time-past, var(--red-300, #f3768b))"
+    />
+    <path
+      id="time-present"
+      d="M60,223.923l120,0l-60,-103.923l-60,103.923Zm60,-103.923l-60,-103.923l120,0l-60,103.923Z"
+      fill="var(--fumonicon-time-present, var(--orange-300, #efcd44))"
+    />
+    <path
+      id="time-future"
+      d="M180,223.923l60,-103.923l-60,-103.923l-20,34.641l30,51.961l-60,0l-10,17.321l10,17.321l60,0l-30,51.961l20,34.641Z"
+      fill="var(--fumonicon-time-future, var(--green-300, #adff2f))"
+    />
+  </g>
+</svg>
