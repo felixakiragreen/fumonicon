@@ -39,6 +39,31 @@
       "title": "portrait_meg",
       "description": "a hexagonal portrait of Meg McNames",
       "colors": []
+    },
+    {
+      "title": "doorway",
+      "description": "",
+      "colors": []
+    },
+    {
+      "title": "ha_tsume",
+      "description": "",
+      "colors": []
+    },
+    {
+      "title": "uniform",
+      "description": "",
+      "colors": []
+    },
+    {
+      "title": "union_nordic",
+      "description": "",
+      "colors": []
+    },
+    {
+      "title": "yin_yang",
+      "description": "",
+      "colors": []
     }
   ]
 }

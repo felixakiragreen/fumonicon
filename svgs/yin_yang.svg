@@ -1,0 +1,31 @@
+<svg
+  role="img"
+  width="100%"
+  height="100%"
+  viewBox="0 0 240 240"
+  xmlns="http://www.w3.org/2000/svg"
+>
+  <title>
+    yin_yang fumonicon
+  </title>
+  <g class="color" style="fill-rule:evenodd">
+    <path
+      d="M120,0l103.923,60l0,120l-103.923,60l-103.923,-60l0,-120l103.923,-60Z"
+      style="fill:#808080;"
+    />
+    <path
+      d="M16.077,180l0,-120l103.923,-60l51.962,30l0,60l-103.924,60l0,60l-51.961,-30Z"
+    />
+    <path
+      d="M120,30l25.981,15l0,30l-25.981,15l-25.981,-15l0,-30l25.981,-15Z"
+      style="fill:#fff;"
+    />
+    <path
+      d="M171.962,30l51.961,30l0,120l-103.923,60l-51.962,-30l0,-60l103.924,-60l0,-60Z"
+      style="fill:#fff;"
+    />
+    <path
+      d="M120,150l25.981,15l0,30l-25.981,15l-25.981,-15l0,-30l25.981,-15Z"
+    />
+  </g>
+</svg>
