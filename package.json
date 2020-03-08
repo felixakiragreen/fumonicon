@@ -48,7 +48,6 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "dependencies": {},
   "devDependencies": {
     "@types/jest": "^25.1.3",
     "husky": "^4.2.3",

@@ -19,14 +19,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
     ],
     "dependencyTreeRoots": [
       {
-        "name": "fumonicon",
+        "name": "@f*g/fumonicon",
         "reference": "workspace:."
       }
     ],
     "enableTopLevelFallback": true,
     "ignorePatternData": "(^(?:\\.vscode\\/pnpify(?:\\/(?!\\.)(?:(?:(?!(?:^|\\/)\\.).)*?)|$))$)",
     "fallbackExclusionList": [
-      ["fumonicon", ["workspace:."]]
+      ["@f*g/fumonicon", ["workspace:."]]
     ],
     "locationBlacklistData": [
     ],
@@ -1285,6 +1285,23 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["minimist", "npm:1.2.0"]
           ],
           "linkType": "HARD",
+        }]
+      ]],
+      ["@f*g/fumonicon", [
+        ["workspace:.", {
+          "packageLocation": "./",
+          "packageDependencies": [
+            ["@f*g/fumonicon", "workspace:."],
+            ["@types/jest", "npm:25.1.3"],
+            ["husky", "npm:4.2.3"],
+            ["svglint", "npm:1.0.5"],
+            ["terser", "npm:4.6.3"],
+            ["tsdx", "npm:0.12.3"],
+            ["tslib", "npm:1.11.0"],
+            ["typescript", "patch:typescript@npm%3A3.7.5#builtin<compat/typescript>::version=3.7.5&hash=273569"],
+            ["uglify-js", "npm:3.8.0"]
+          ],
+          "linkType": "SOFT",
         }]
       ]],
       ["@jest/console", [
@@ -4449,23 +4466,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["node-pre-gyp", "npm:0.14.0"]
           ],
           "linkType": "HARD",
-        }]
-      ]],
-      ["fumonicon", [
-        ["workspace:.", {
-          "packageLocation": "./",
-          "packageDependencies": [
-            ["fumonicon", "workspace:."],
-            ["@types/jest", "npm:25.1.3"],
-            ["husky", "npm:4.2.3"],
-            ["svglint", "npm:1.0.5"],
-            ["terser", "npm:4.6.3"],
-            ["tsdx", "npm:0.12.3"],
-            ["tslib", "npm:1.11.0"],
-            ["typescript", "patch:typescript@npm%3A3.7.5#builtin<compat/typescript>::version=3.7.5&hash=273569"],
-            ["uglify-js", "npm:3.8.0"]
-          ],
-          "linkType": "SOFT",
         }]
       ]],
       ["function-bind", [
