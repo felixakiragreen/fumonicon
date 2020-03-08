@@ -34,6 +34,11 @@
       "title": "golden_circle",
       "description": "1. why , 2. how , 3. what",
       "colors": []
+    },
+    {
+      "title": "portrait_meg",
+      "description": "a hexagonal portrait of Meg McNames",
+      "colors": []
     }
   ]
 }
