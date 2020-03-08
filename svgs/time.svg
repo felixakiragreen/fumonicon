@@ -12,7 +12,7 @@
     <path
       id="time-bg"
       d="M240,120l-60,103.923l-120,0l-60,-103.923l60,-103.923l120,0l60,103.923Z"
-      fill="var(--fumonicon-time-bg, var(--grey-300, #808080))"
+      fill="var(--fumonicon-time-bg, var(--grey-700, #808080))"
     />
     <path
       id="time-past"
@@ -22,7 +22,7 @@
     <path
       id="time-present"
       d="M60,223.923l120,0l-60,-103.923l-60,103.923Zm60,-103.923l-60,-103.923l120,0l-60,103.923Z"
-      fill="var(--fumonicon-time-present, var(--orange-300, #efcd44))"
+      fill="var(--fumonicon-time-present, var(--yellow-300, #efcd44))"
     />
     <path
       id="time-future"
