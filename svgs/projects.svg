@@ -147,37 +147,24 @@
       </g>
     </g>
   </symbol>
-  <style>
-    .origin-center {
-      transform-origin: 120px 120px;
-    }
-  </style>
   <g class="color" style="fill-rule:evenodd">
     <use xlink:href="#symbol-projects-block" />
+    <use xlink:href="#symbol-projects-block" transform="rotate(60, 120, 120)" />
     <use
       xlink:href="#symbol-projects-block"
-      class="origin-center"
-      transform="rotate(60)"
+      transform="rotate(120, 120, 120)"
     />
     <use
       xlink:href="#symbol-projects-block"
-      class="origin-center"
-      transform="rotate(120)"
+      transform="rotate(180, 120, 120)"
     />
     <use
       xlink:href="#symbol-projects-block"
-      class="origin-center"
-      transform="rotate(180)"
+      transform="rotate(240, 120, 120)"
     />
     <use
       xlink:href="#symbol-projects-block"
-      class="origin-center"
-      transform="rotate(240)"
-    />
-    <use
-      xlink:href="#symbol-projects-block"
-      class="origin-center"
-      transform="rotate(300)"
+      transform="rotate(300, 120, 120)"
     />
     <path
       id="projects-park"
